@@ -102,3 +102,35 @@ This is basically a shortcut way to write loops that create lists.
     2. Faster execution
     3. More Pythonic
     4. Improves readability for simple transformations
+
+
+Exception Handling with try and except
+    Prevents the program from crashing when an error occurs
+    The finally Block:
+      Runs cleanup code no matter what happens (error or no error)
+         a. ValueError: Wrong type of value given - int("abc")
+         b. KeyError: Accessing a dictionary key that doesn’t exist - my_dict["missing_key"]
+         c. TypeError: Using an operation on the wrong type - "abc" + 123
+
+File Handling:
+   syntax:
+   file = open("filename.txt", "mode")
+
+   "r"	Read (default). File must exist: open("file.txt", "r")
+   "w"	Write. Creates new file or overwrites existing: open("file.txt", "w")
+   "a"	Append. Adds new content at the end: open("file.txt", "a")
+   "r+"	Read and write. File must exist: open("file.txt", "r+")
+   "w+"	Write and read. Overwrites file: open("file.txt", "w+")
+
+
+Object-Oriented Programming:
+Organize code into reusable structures called classes and objects
+   Class: Blueprint for creating objects.
+   Object: Instance of a class with its own data and behavior.
+
+   OOP helps structure large programs, making them easier to maintain and extend.
+
+json.dump() → Python ➜ JSON (into file)
+json.dumps() → Python ➜ JSON string
+json.load() → JSON file ➜ Python (Read JSON from file)
+json.loads() → JSON string ➜ Python (Convert string to Python object)
