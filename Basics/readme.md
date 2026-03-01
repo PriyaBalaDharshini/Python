@@ -134,3 +134,8 @@ json.dump() → Python ➜ JSON (into file)
 json.dumps() → Python ➜ JSON string
 json.load() → JSON file ➜ Python (Read JSON from file)
 json.loads() → JSON string ➜ Python (Convert string to Python object)
+
+
+
+Numpy:
+1. Multidimentional array -  Metrics, collection of data

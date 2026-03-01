@@ -28,12 +28,12 @@
 # with open("shopping.txt", "r") as file:
 #     content=file.read()
 #     print(f"content with condition with \n{content}")
-    
-    
+
+
 # with open("shopping.txt", "w+") as file:
 #     file.write("Content using with")
-    
-#Python Dictionary:
+
+# Python Dictionary:
 # import json
 # person ={
 #     "name":"Priya",
@@ -75,8 +75,8 @@
 
 
 import json
-    
-with open("res.json","r" ) as f:
-    data=json.load(f)
-    
+
+with open("res.json", "r") as f:
+    data = json.load(f)
+
     print(type(data))

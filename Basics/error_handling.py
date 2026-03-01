@@ -1,27 +1,27 @@
-#ValueError:
+# ValueError:
 
 try:
-    num =int("abc")
+    num = int("abc")
 except ValueError:
     print("Cannot convert string to integer.")
-    
-#KeyError
+
+# KeyError
 try:
-    data={"name":"Priya"}
+    data = {"name": "Priya"}
     print(data["age"])
 except KeyError:
     print("Key not found in dictionary.")
-    
-#TypeError
+
+# TypeError
 try:
-    res=123+"abc"
+    res = 123 + "abc"
     print(res)
 except TypeError:
     print("Cannot add string and integer.")
-    
+
 try:
-    num =int(input("Enter a number"))
-    res=10/num
+    num = int(input("Enter a number"))
+    res = 10 / num
     print("Result:", res)
 except ValueError:
     print("Invalid input! Please enter a number.")
