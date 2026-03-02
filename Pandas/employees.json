@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Priya",
+    "email": "priya@example.com",
+    "age": 25,
+    "isActive": true,
+    "department": "HR",
+    "skills": ["Communication", "Recruitment"],
+    "address": "Bengaluru, India"
+  },
+  {
+    "id": 2,
+    "name": "Bala",
+    "email": "bala@example.com",
+    "age": 28,
+    "isActive": false,
+    "department": "Finance",
+    "skills": ["Accounting", "Excel"],
+    "address": "Chennai, India"
+  },
+  {
+    "id": 3,
+    "name": "Thiru",
+    "email": "thiru@example.com",
+    "age": 30,
+    "isActive": true,
+    "department": "IT",
+    "skills": ["Python", "SQL", "Machine Learning"],
+    "address": "Hyderabad, India"
+  },
+  {
+    "id": 4,
+    "name": "Surya",
+    "email": "surya@example.com",
+    "age": 26,
+    "isActive": true,
+    "department": "Marketing",
+    "skills": ["SEO", "Content Writing"],
+    "address": "Mumbai, India"
+  },
+  {
+    "id": 5,
+    "name": "Dhivya",
+    "email": "dhivya@example.com",
+    "age": 27,
+    "isActive": false,
+    "department": "Sales",
+    "skills": ["Negotiation", "CRM"],
+    "address": "Delhi, India"
+  },
+  {
+    "id": 6,
+    "name": "Kiran",
+    "email": "kiran@example.com",
+    "age": 29,
+    "isActive": true,
+    "department": "Operations",
+    "skills": ["Logistics", "Planning"],
+    "address": "Pune, India"
+  },
+  {
+    "id": 7,
+    "name": "Anjali",
+    "email": "anjali@example.com",
+    "age": 24,
+    "isActive": true,
+    "department": "Finance",
+    "skills": ["Budgeting", "Analysis"],
+    "address": "Kolkata, India"
+  },
+  {
+    "id": 8,
+    "name": "Ravi",
+    "email": "ravi@example.com",
+    "age": 32,
+    "isActive": false,
+    "department": "IT",
+    "skills": ["Java", "Cloud Computing"],
+    "address": "Coimbatore, India"
+  },
+  {
+    "id": 9,
+    "name": "Sneha",
+    "email": "sneha@example.com",
+    "age": 23,
+    "isActive": true,
+    "department": "HR",
+    "skills": ["Onboarding", "Employee Relations"],
+    "address": "Jaipur, India"
+  },
+  {
+    "id": 10,
+    "name": "Vikram",
+    "email": "vikram@example.com",
+    "age": 31,
+    "isActive": true,
+    "department": "Sales",
+    "skills": ["Presentation", "Customer Service"],
+    "address": "Ahmedabad, India"
+  }
+]

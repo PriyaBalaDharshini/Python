@@ -1,0 +1,11 @@
+id,name,email,age,isActive,department,skills,address
+1,Priya,priya@example.com,25,True,HR,"Communication, Recruitment","Bengaluru, India"
+2,Bala,bala@example.com,28,False,Finance,"Accounting, Excel","Chennai, India"
+3,Thiru,thiru@example.com,30,True,IT,"Python, SQL, Machine Learning","Hyderabad, India"
+4,Surya,surya@example.com,26,True,Marketing,"SEO, Content Writing","Mumbai, India"
+5,Dhivya,dhivya@example.com,27,False,Sales,"Negotiation, CRM","Delhi, India"
+6,Kiran,kiran@example.com,29,True,Operations,"Logistics, Planning","Pune, India"
+7,Anjali,anjali@example.com,24,True,Finance,"Budgeting, Analysis","Kolkata, India"
+8,Ravi,ravi@example.com,32,False,IT,"Java, Cloud Computing","Coimbatore, India"
+9,Sneha,sneha@example.com,23,True,HR,"Onboarding, Employee Relations","Jaipur, India"
+10,Vikram,vikram@example.com,31,True,Sales,"Presentation, Customer Service","Ahmedabad, India"
